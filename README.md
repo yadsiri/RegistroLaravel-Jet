@@ -1,4 +1,4 @@
-## Instalacion y proceso de creacion de Login y registro con JetStream de LARAVEL
+## Instalacion y proceso de creacion de Login y registro con Jet de LARAVEL
 
 Se necesitó tener XAMPP, MySQL, Composer, Git y Laravel, todos previamente descargados y configurados con versiones recientes.
 
