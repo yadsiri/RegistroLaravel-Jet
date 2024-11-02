@@ -6,4 +6,4 @@ Lo que necesite fue tener Xampp, mysql, composer, git y laravel. Todo peviamente
 Repositorio en GitHub e imagenes del proceso.
 
 ## 1.- Creamos un proyecto con jet y le vamos indicando las especificcaciones deseadas
-![En la terminal de git dentro de la carpeta de Xampp creamos el proyecto.](IMAGENES/1.Ppng)
+![En la terminal de git dentro de la carpeta de Xampp creamos el proyecto.](IMAGENES/1.png)
