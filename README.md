@@ -5,7 +5,7 @@ Se necesitó tener XAMPP, MySQL, Composer, Git y Laravel, todos previamente desc
 ## Entregables
 Repositorio en GitHub e imagenes del proceso.
 
-## 1.- Creación del proyecto con JetStream y especificaciones deseadas
+## 1.- Creación del proyecto con Jet y especificaciones deseadas
 ![En la terminal de git dentro de la carpeta de Xampp creamos el proyecto.](IMAGENES/1.png)
 ![En la terminal de git dentro de la carpeta de Xampp creamos el proyecto.](IMAGENES/2.png)
 ## 2.- Selección de la base de datos a utilizar
